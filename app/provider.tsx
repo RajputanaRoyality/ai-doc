@@ -1,3 +1,4 @@
+"use client"
 import { UserDetailContext } from '@/context/UserDetailContext';
 import { useUser } from '@clerk/nextjs';
 import axios from 'axios'
